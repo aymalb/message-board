@@ -1,1 +1,1 @@
-A frontend solution for a message board
+A frontend solution for a message board. Now with jQuery.
