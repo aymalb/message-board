@@ -1,0 +1,26 @@
+#posts article, #postText {
+    width: 40%;
+    min-width: 360px;
+    margin-bottom: 5px;
+    box-sizing: border-box;
+  }
+  
+  #postText {
+    height: 100px;
+    resize: none;
+  }
+  
+  .post-text, .post-timestamp {
+    padding: 5px;
+    margin : 0;
+  }
+  
+  .post-text {
+    background-color: #a1a1a1;
+  }
+  
+  .post-timestamp {
+    font-style: italic;
+    color: white;
+    background-color: #4a4a4a;
+  }
